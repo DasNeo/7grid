@@ -1,0 +1,20 @@
+.footer {
+	background-color: #DBDBDB;
+	position:fixed;
+	bottom:0; left:0; right:0;
+}
+
+.footer .nav li {
+	display: inline;
+	color: black;
+	width: 80px;
+	border: solid;
+	padding: 10px;
+	background-color: white;
+	border-width: 1px;
+}
+
+.footer .nav ul {
+	border-collapse: separate;
+	border-spacing: 100px 50px;
+}
